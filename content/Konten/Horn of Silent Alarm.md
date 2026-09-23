@@ -1,8 +1,5 @@
 ---
 title: Horn of Silent Alarm
-draft: "false"
-tags:
-  - index
 ---
 **Wondrous Item, Instrument (Horn), Common**
 

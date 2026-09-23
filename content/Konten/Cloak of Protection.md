@@ -1,8 +1,5 @@
 ---
 title: Cloak of Protection
-draft: "false"
-tags:
-  - index
 ---
 **Wondrous Item, Uncommon, Requires Attunement**
 

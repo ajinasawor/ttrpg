@@ -1,8 +1,5 @@
 ---
 title: Conjure Animals
-draft: "false"
-tags:
-  - index
 ---
 _Level 3 Conjuration_
 

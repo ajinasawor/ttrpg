@@ -1,8 +1,5 @@
 ---
 title: Kari 'Ell
-draft: "false"
-tags:
-  - index
 ---
 ![[download.jpeg|300]]
 

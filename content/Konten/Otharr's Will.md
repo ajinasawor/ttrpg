@@ -1,8 +1,5 @@
 ---
 title: Otharr's Will
-draft: "false"
-tags:
-  - index
 ---
 **Gem, Wondrous Item, Rare, Requires Attunement**
 

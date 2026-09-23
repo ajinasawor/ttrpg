@@ -1,8 +1,5 @@
 ---
 title: Otharr's Adrenaline Rush
-draft: "false"
-tags:
-  - index
 ---
 **Ring, Wondrous Item, Uncommon, Requires Attunement** 
 

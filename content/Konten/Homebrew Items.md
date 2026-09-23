@@ -1,8 +1,5 @@
 ---
 title: Homebrew Items
-draft: "false"
-tags:
-  - index
 --- 
 
 ![[Otharr's Will]] 

@@ -1,8 +1,5 @@
 ---
 title: Enspelled Spell Level 3
-draft: "false"
-tags:
-  - index
 ---
 **Staff, Weapon, Rare, Requires Attunement**
 *Simple Weapon, Melee Weapon*

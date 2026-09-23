@@ -1,8 +1,5 @@
 ---
 title: Clockwork Amulet
-draft: "false"
-tags:
-  - index
 ---
 **Wondrous Item, Common**
 

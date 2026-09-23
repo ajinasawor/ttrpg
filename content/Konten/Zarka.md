@@ -1,8 +1,5 @@
 ---
 title: Zarka
-draft: "false"
-tags:
-  - index
 ---
 ![[DoPq on Twitter_ _drawing… _.jpeg|300]]
 

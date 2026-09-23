@@ -1,8 +1,5 @@
 ---
 title: Deck of Wonder (22 Cards)
-draft: "false"
-tags:
-  - index
 ---
 **Wondrous Item, Uncommon**
 
@@ -44,13 +41,13 @@ You can use an altered deck of playing cards to simulate the deck, as shown in t
 
 **Champion**. You gain a +1 bonus to weapon attack and damage rolls. This bonus lasts for 8 hours.
 
-**Chancellor**. Within 8 hours of drawing this card, you can cast Augury once as an action, requiring no material components. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
+**Chancellor**. Within 8 hours of drawing this card, you can cast [[Augury]] once as an action, requiring no material components. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
 
 **Chaos**. You gain resistance to one of the following damage types (chosen by the DM): acid, cold, fire, lightning, or thunder. This resistance lasts for 1d12 days.
 
 **Coin**. Five pieces of jewelry, each worth 100 gp, or ten gemstones, each worth 50 gp, appear at your feet.
 
-**Crown**. You learn the Friends cantrip. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice). If you already know this cantrip, the card has no effect.
+**Crown**. You learn the [[Friends]] cantrip. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice). If you already know this cantrip, the card has no effect.
 
 **Dawn**. This card invigorates you. For the next 8 hours, you can add your proficiency bonus to your initiative rolls.
 
@@ -58,9 +55,9 @@ You can use an altered deck of playing cards to simulate the deck, as shown in t
 
 **Destiny**. This card protects you against an untimely demise. The first time after drawing this card that you would drop to 0 hit points from taking damage, you instead drop to 1 hit point.
 
-**Dusk**. This card supernaturally saps your energy. You have disadvantage on initiative rolls. This effect lasts until you finish a long rest, but it can be ended early by a Remove Curse spell or similar magic.
+**Dusk**. This card supernaturally saps your energy. You have disadvantage on initiative rolls. This effect lasts until you finish a long rest, but it can be ended early by a [[Remove Curse]] spell or similar magic.
 
-**End**. This card is an omen of death. You take 2d10 necrotic damage, and your hit point maximum is reduced by an amount equal to the damage taken. This effect can't reduce your hit point maximum below 10 hit points. This reduction lasts until you finish a long rest, but it can be ended early by a Remove Curse spell or similar magic.
+**End**. This card is an omen of death. You take 2d10 necrotic damage, and your hit point maximum is reduced by an amount equal to the damage taken. This effect can't reduce your hit point maximum below 10 hit points. This reduction lasts until you finish a long rest, but it can be ended early by a [[Remove Curse]] spell or similar magic.
 
 **Isolation**. You disappear, along with anything you are wearing or carrying, and become trapped in a harmless extradimensional space for 1d4 minutes. You draw no more cards. You then reappear in the space you left or the nearest unoccupied space. When you reappear, you must succeed on a DC 11 Constitution saving throw or have the poisoned condition for 1 hour as your body reels from the extradimensional travel.
 
@@ -68,11 +65,11 @@ You can use an altered deck of playing cards to simulate the deck, as shown in t
 
 **Knife**. An uncommon magic weapon you're proficient with appears in your hands. The DM chooses the weapon.
 
-**Lock**. You gain the ability to cast Knock 1d3 times. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
+**Lock**. You gain the ability to cast [[Knock]] 1d3 times. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
 
 **Mischief**. You receive an uncommon wondrous item (chosen by the DM), or you can draw two additional cards beyond your declared draws.
 
-**Monster**. This card's monstrous visage curses you. While cursed in this way, whenever you make a saving throw, you must roll 1d4 and subtract the number rolled from the total. The curse lasts until you finish a long rest, but it can be ended early with a Remove Curse spell or similar magic.
+**Monster**. This card's monstrous visage curses you. While cursed in this way, whenever you make a saving throw, you must roll 1d4 and subtract the number rolled from the total. The curse lasts until you finish a long rest, but it can be ended early with a [[Remove Curse]] spell or similar magic.
 
 **Mystery**. You have disadvantage on Intelligence saving throws for 1 hour. Discard this card and draw from the deck again; together, the two draws count as one of your declared draws.
 

@@ -1,8 +1,5 @@
 ---
 title: Alas Widjanarko
-draft: "false"
-tags:
-  - index
 ---
 ![[alas widjanarko.jpeg|300]]
 # Back Story
