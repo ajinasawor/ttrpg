@@ -1,6 +1,18 @@
 ---
-title: Welcome to Quartz
+title: Alas Widjanarko
+draft: "false"
+tags:
+  - index
 ---
+![[alas widjanarko.jpeg|300]]
+# Back Story
+![[Alas Widjanarko]]
+# Known NPCs
+![[Zarka]]
+![[Kari 'Ell]]
+# Items & Equipments
+![[Bought Equipments]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+![[Freebies]]
+
+![[Homebrew Items]]
