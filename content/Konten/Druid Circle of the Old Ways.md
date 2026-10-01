@@ -125,12 +125,12 @@ When you reach a Druid level specified in the Circle of the Old Ways Spells tabl
 
 Circle of the Old Ways Spells
 
-| Druid Level | Prepared Spells                                                          |
-| ----------- | ------------------------------------------------------------------------ |
+| Druid Level | Prepared Spells                                                                              |
+| ----------- | -------------------------------------------------------------------------------------------- |
 | 3           | [[Ancestral Communion]], [[Barkskin]], [[Shield of Faith]], [[Shillelagh]], [[Spike Growth]] |
-| 5           | [[Magic Circle]], [[Plant Growth]]                                               |
-| 7           | [[Freedom of Movement]], [[Private Sanctum]]                                     |
-| 9           | [[Awaken]], [[Tree Stride]]                                                      |
+| 5           | [[Magic Circle]], [[Plant Growth]]                                                           |
+| 7           | [[Freedom of Movement]], [[Mordenkainen's Private Sanctum]]                                  |
+| 9           | [[Awaken]], [[Tree Stride]]                                                                  |
 
 ### Level 3: Wood Wose
 *TCM'24 p75*
