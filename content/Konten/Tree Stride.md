@@ -1,13 +1,13 @@
+#### Tree Stride
+*Level 5 Conjuration*
+___
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 ---
-title: Tree Stride
----
-*Level 2 Transmutation*
+You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you're in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.
 
-**Casting Time**: Action
-**Range**: 150 feet
-**Components**: V, S, M (seven thorns)
-**Duration**: Concentration, up to 10 minutes
+You can use this transportation ability only once on each of your turns. You must end each turn outside a tree.
 
-The ground in a 20-foot-radius Sphere centered on a point within range sprouts hard spikes and thorns. The area becomes Difficult Terrain for the duration. When a creature moves into or within the area, it takes 2d4 Piercing damage for every 5 feet it travels.
-
-The transformation of the ground is camouflaged to look natural. Any creature that can't see the area when the spell is cast must take a Search action and succeed on a Wisdom (Perception or Survival) check against your spell save DC to recognize the terrain as hazardous before entering it.
+**Classes:** Druid, Ranger
