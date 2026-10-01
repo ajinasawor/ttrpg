@@ -16,7 +16,7 @@ Budget: 4300 GP
 | [[Herbalism Kit]]           | 5 GP    |
 | [[Tinker's Tools]]          | 50 GP   |
 | [[Playing Cards]]           | 5 SP    |
-| [[Thieve's Tools]]          | 25 GP   |
+| [[Thieves' Tools]]          | 25 GP   |
 | [[Agate]]                   | 1000 GP |
 | [[Powdered Silver]] (4)     | 400 GP  |
 | [[Rope]]                    | 5 GP    |

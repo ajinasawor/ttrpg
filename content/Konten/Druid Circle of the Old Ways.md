@@ -21,16 +21,14 @@ title: Druid Circle of the Old Ways
 
 You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [[Speak with Animals]] spell prepared.
 
-You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence (Investigation) check but can't decipher it without magic.
+You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence (**Investigation**) check but can't decipher it without magic.
 
 ### Level 1: Primal Order
 *PHB'24 p80*
 
-You have dedicated yourself to one of the following sacred roles of your choice. ([[Druid Circle of the Old Ways#**Magician**|Magician]])
+You have dedicated yourself to one of the following sacred roles of your choice.
 ##### **Magician** 
 You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).
-##### **Warden**
-Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.
 
 ### Level 1: Spellcasting
 *PHB'24 p79*

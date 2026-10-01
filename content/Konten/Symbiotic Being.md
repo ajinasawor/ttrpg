@@ -1,6 +1,7 @@
 ---
 title: Symbiotic Being
 ---
+# Symbiotic Being
 A second being resides within your body, offering knowledge and assistance while furthering its own agenda. You gain the following features.
 
 **Entwined Existence**. The symbiote can't be targeted. If you die, so does your symbiote. If you are returned to life, your symbiote also revives.
