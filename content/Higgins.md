@@ -1,0 +1,1 @@
+The Talent yang disebutkan oleh [[Gili]]

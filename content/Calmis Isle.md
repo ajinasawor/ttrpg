@@ -1,0 +1,1 @@
+Pemukiman yang sudah ditinggal/terlantar. dilewati party ketika menuju [[Bastion 4 Banshee Corp.]]
