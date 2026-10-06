@@ -1,0 +1,1 @@
+PC dimainkan oleh Satria. Threadborn The talentt

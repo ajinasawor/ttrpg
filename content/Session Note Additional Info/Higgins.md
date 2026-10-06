@@ -1,0 +1,1 @@
+The Talent yang disebutkan oleh [[Gillie]]. Salah satu awak kapal selam. Lokasi dan penampilannya masih belum diketahui.

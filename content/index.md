@@ -26,3 +26,6 @@ title: Alas Widjanarko
 
 # Prepared Spells
 ![[Prepared Spell]]
+
+# Session Notes
+[[Session Notes 01-10-26]]

@@ -1,0 +1,1 @@
+PC dimainkan Jojo. Karakter dari Moonheaven. Human Cleric

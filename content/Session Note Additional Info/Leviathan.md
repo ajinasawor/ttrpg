@@ -1,0 +1,1 @@
+#Rumor Monster hitam bersisik yang dilihat oleh [[Eliana]] saat menggunakan binokkler di raung kendali kapal selam.
