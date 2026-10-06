@@ -1,4 +1,4 @@
-1. Saat Meditasi di Kapal Selam, untuk pertama kalinya dalam 40 tahun, bisikan, imajinasi dan mimpi yang dialami Alas, dari hanya gumaman yang tidak bisa dipahami, menjadi kalimat yang dikeluarkan dengan nada pria yang berat: **"Apakah aku masih dibutuhkan?"** Alas menjawabnya dengan menuliskan druidic message di lantai, "Ya."
+1. [[Spoiler 1]]
 2. Notable NPCs: [[Tamsin Rook]], [[Gillie]], [[Toro]], [[Higgins]] (mentioned), [[Serfigillus Tundra]] (mentioned)
 3. Kapal di ruang kemudi ada tombol ***self-destruct***. (meta knowledge, yang tahu adalah [[Eliana]])
 4. Notable Diety: [[Oxeus]].

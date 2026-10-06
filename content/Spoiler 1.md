@@ -1,0 +1,1 @@
+Saat Meditasi di Kapal Selam, untuk pertama kalinya dalam 40 tahun, bisikan, imajinasi dan mimpi yang dialami Alas, dari hanya gumaman yang tidak bisa dipahami, menjadi kalimat yang dikeluarkan dengan nada pria yang berat: **"Apakah aku masih dibutuhkan?"** Alas menjawabnya dengan menuliskan druidic message di lantai, "Ya."
