@@ -1,0 +1,1 @@
+Fontain yang menjadi salah satu tujuan dari [[Cthrion Uroniziir]]. Jika [[Cthrion Uroniziir]] menemukan lokasi [[Fontain of the Divination]] terlebih dahulu, tamatlah sudah riwayat dunia Thymidra.

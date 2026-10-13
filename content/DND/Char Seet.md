@@ -80,27 +80,27 @@
 ### Cantrip & Spell List (12)
 #### Level 1
 - [[Bane]]
-[[Cure Wounds]]
+[[DND/Cure Wounds]]
 [[Ensnaring Strike]]
 [[Hail of Thorns]]
 [[Entangle]]
 [[Hunter's Mark]]
-[[Thorn Armor]]
+[[DND/Thorn Armor]]
 
 #### Level 2
 [[Aid]]
 - [[Hold Person]]
 [[Pass without Trace]]
-[[Spike Growth]]
+[[DND/Spike Growth]]
 
 #### Level 3
 [[Scarlet Dawn]]
 - [[Fear]]
 
 #### Level 4
-[[Freedom of Movement]]
+[[DND/Freedom of Movement]]
 - [[Intrusive Despair]]
-[[Murder of Crows]]
+[[DND/Murder of Crows]]
 
 
 ## Catatan Tambahan

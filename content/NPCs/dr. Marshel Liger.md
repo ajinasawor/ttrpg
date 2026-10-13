@@ -1,0 +1,1 @@
+Pencipta [[Cthrion Uroniziir]]. Terakhir terlihat 1 bulan lalu di [[Bastion SL-62]] menyamar sebagai tukang buah.

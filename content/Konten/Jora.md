@@ -1,1 +1,0 @@
-Leonin penjaga gerbang dari [[Bastion CI-01]] bersama [[Tigor]]

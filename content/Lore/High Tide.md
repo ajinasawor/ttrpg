@@ -1,0 +1,1 @@
+Awal [[High Tide]] adalah waktu dimana kondisi paling lemah [[Gemstone Dragon]]. Kemungkinan karena faktor perubahan musim. -[[Ilvar]]
