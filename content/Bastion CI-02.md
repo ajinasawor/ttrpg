@@ -1,0 +1,1 @@
+Berada di bawah gunung berapi.

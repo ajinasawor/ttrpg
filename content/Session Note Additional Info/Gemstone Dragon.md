@@ -1,0 +1,1 @@
+Bisa berubah menjadi manusia. Pintar, politis, hoarding knowledge.

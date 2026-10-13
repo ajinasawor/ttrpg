@@ -5,6 +5,11 @@ title: Alas Widjanarko
 
 # Back Story
 
+## Bahasa
+1. Common
+2. Common Sign Language
+3. Primordial
+
 ![[Alas Widjanarko]]
 
 # Known NPCs
@@ -27,5 +32,8 @@ title: Alas Widjanarko
 # Prepared Spells
 ![[Prepared Spell]]
 
+# Scavenging Bag
+![[Scavenging Bag]]
 # Session Notes
 [[Session Notes 01-10-26]]
+[[Session Notes 07-10-26]]

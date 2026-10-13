@@ -5,7 +5,7 @@ Budget: 4300 GP
 
 | [[Explorer's Pack]]         | 10 GP   |
 | --------------------------- | ------- |
-| [[Flux Lens]]               | 50 GP   |
+| [[Flux-Lens Goggles]]               | 50 GP   |
 | [[Razorback]]               | 220 GP  |
 | [[Potion of Healing]] (3)   | 1200 GP |
 | [[Potion of Advantage]] (2) | 250 GP  |

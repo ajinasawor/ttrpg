@@ -1,0 +1,1 @@
+Loose Scraps hasil breakdown junk item dan loot scavenging.

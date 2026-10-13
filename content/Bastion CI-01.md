@@ -1,0 +1,1 @@
+populasi: 38.000 jiwa.

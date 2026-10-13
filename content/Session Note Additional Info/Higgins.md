@@ -1,1 +1,1 @@
-The Talent yang disebutkan oleh [[Gillie]]. Salah satu awak kapal selam. Lokasi dan penampilannya masih belum diketahui.
+The Talent yang disebutkan oleh [[Gillie]]. Salah satu awak kapal selam. Lokasi dan penampilannya masih belum diketahui. Memberikan info ke [[Gillie]] bahwa [[Gemstone Dragon]] bisa berubah menjadi manusia.

@@ -1,0 +1,1 @@
+Peliharaan dari [[Malus]]

@@ -16,3 +16,6 @@ Ribuan makhluk dari berbagai penjuru telah mengikrarkan kesetiaan pada tujuan Ct
 Sebagai entitas buatan yang melampaui batasan biologis, Cthrion memanipulasi waktu dengan cara yang berbeda. Setelah menyusun rencana utamanya, ia akan memasuki fase stasis psionic yang panjang. Ia tertidur lelap di dalam kapsul hibernasinya dan membiarkan konspirasi tersebut berjalan secara otomatis, lalu bangkit sesekali hanya untuk mengevaluasi progres para pengikutnya.
 
 Sarang sekaligus laboratorium utamanya sama sekali tidak terikat pada realitas fisik Thymidra. Singgasana tersebut disembunyikan dalam sebuah anomali dimensi yang melampaui batasan ruang dan waktu. Rahasia menuju tempat ini dijaga dengan sangat ketat; hanya segelintir pelayan Gemstone Dragon kepercayaannya yang memiliki akses. Bagi kaum fana, satu-satunya cara menembus gerbang anomali ini mengharuskan mereka memicu sebuah ritual destruktif berskala besar yang formula teknisnya hanya diketahui oleh para naga petinggi tersebut.
+
+---
+Alasan kenapa [[Dor Dor]] dipanggil menjadi bagian dari party karena dia sudah pernah bertemu dengan [[Cthrion Uroniziir]], dan [[Cthrion Uroniziir]] bisa menjadi lebih lemah, jika melawan orang yang pernah melawannya sebelumnya. -[[Ilfar]].
