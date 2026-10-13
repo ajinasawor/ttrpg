@@ -1,1 +1,1 @@
-[[Gemstone Dragon]] salah satu naga kepercayaan [[Cthrion Uroniziir]], yang memiliki julukan [[Amethyst Terror]]
+[[Gemstone Dragon]] salah satu naga kepercayaan [[Cthrion Uroniziir]], yang memiliki julukan [[Amethyst Terror]].
