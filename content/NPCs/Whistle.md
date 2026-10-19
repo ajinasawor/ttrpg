@@ -1,0 +1,1 @@
+Salah satu awak [[Kapal Selam K.U.R.A]]

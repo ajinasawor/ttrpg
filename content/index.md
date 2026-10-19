@@ -1,7 +1,7 @@
 ---
 title: Alas Widjanarko
 ---
-![[alas widjanarko.jpeg|300]]
+![[alas widjanarko.jpeg|100]]
 
 # Back Story
 
@@ -37,3 +37,4 @@ title: Alas Widjanarko
 # Session Notes
 [[Session Notes 01-10-26]]
 [[Session Notes 07-10-26]]
+[[Session Notes 14-10-26]]
